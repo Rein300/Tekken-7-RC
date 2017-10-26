@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Tekken-7-RC.cpp
+g:\tekken-7-rc\tekken-7-rc\tekken-7-rc.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\tekken-7-rc\tekken-7-rc\tekken-7-rc.cpp(21): warning C4101: 'choice': unreferenced local variable
+g:\tekken-7-rc\tekken-7-rc\tekken-7-rc.cpp(459): warning C4717: 'Count': recursive on all control paths, function will cause runtime stack overflow
+  Tekken-7-RC.vcxproj -> G:\Tekken-7-RC\Debug\Tekken-7-RC.exe
